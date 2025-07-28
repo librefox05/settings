@@ -12,7 +12,8 @@
         "Bing",
         "Amazon.com",
         "eBay",
-        "Twitter"
+        "Twitter",
+        "Google"
       ],
       "Default": "DuckDuckGo",
       "Add": [
